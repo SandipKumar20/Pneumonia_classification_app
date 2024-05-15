@@ -1,0 +1,1 @@
+# An app which predicts whether a person with an x-ray(image) is infected with pneumonia or not. The neural net used for prediction was trained(no code) using teachable machine.
